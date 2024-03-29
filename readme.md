@@ -50,3 +50,8 @@ Vulns - see bin-elastic
 Screwed drivers
 
 * https://github.com/eclypsium/Screwed-Drivers/blob/master/DRIVERS.md
+
+Lol drivers
+
+* https://www.loldrivers.io
+
